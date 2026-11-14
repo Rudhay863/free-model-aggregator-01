@@ -1,0 +1,4 @@
+free-model-aggregator-01-kit/
+run-local-trial.sh
+node_modules/
+*.log
